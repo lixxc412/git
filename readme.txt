@@ -4,3 +4,4 @@ git is a good softwore.
 hello git.
 git tracks changes.
 git has a mutable index called stage.
+creating a new branch is quick.
